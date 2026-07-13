@@ -1,0 +1,1 @@
+{"name": "MyQuests", "short_name": "MyQuests", "description": "Pixel-art RPG family chore & schedule tracker", "start_url": "/myquests-demo-c2e719/", "display": "standalone", "background_color": "#080a0d", "theme_color": "#080a0d", "icons": [{"src": "/myquests-demo-c2e719/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}
